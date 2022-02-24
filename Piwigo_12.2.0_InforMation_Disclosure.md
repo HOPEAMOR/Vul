@@ -1,7 +1,10 @@
 ### 0x01. Vulnerability details 
 **vulnerability type**: **information leakage **
+
 **vulnerability versions**: **piwigo 12.2.0 **
+
 **vulnerability URL**: [http://x.x.x.x/piwigo/admin/maintenance_actions.php? action=phpinfo](http://10.92.66.148/piwigo/admin/maintenance_actions.php?action=phpinfo)
+
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/496192/1645695186935-b1df7efa-9242-441e-87a0-f4be6943ba65.png#clientId=ub56e8d03-d575-4&from=paste&height=990&id=u0bb163a8&margin=%5Bobject%20Object%5D&name=image.png&originHeight=990&originWidth=1652&originalType=binary&ratio=1&size=143644&status=done&style=none&taskId=ubdcffe58-3a6d-44ad-882b-afb33de0ba2&width=1652)
 ​
 
