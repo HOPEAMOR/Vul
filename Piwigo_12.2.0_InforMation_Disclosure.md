@@ -1,7 +1,7 @@
 ### 0x01. Vulnerability details 
-**vulnerability type**: **information leakage **
+**vulnerability type**: **information leakage**
 
-**vulnerability versions**: **piwigo 12.2.0 **
+**vulnerability versions**: **piwigo 12.2.0**
 
 **vulnerability URL**: [http://x.x.x.x/piwigo/admin/maintenance_actions.php? action=phpinfo](http://10.92.66.148/piwigo/admin/maintenance_actions.php?action=phpinfo)
 
