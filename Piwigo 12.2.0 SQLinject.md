@@ -1,9 +1,9 @@
 ### Vulnerability details
 
 
-**vulnerability type：**SQL injection 
-**vulnerability versions：**piwigo 12.2.0
-**vulnerability Url：** [http://10.92.66.148/piwigo/ws.php?format=json&method=pwg.users.getList](http://10.92.66.148/piwigo/ws.php?format=json&method=pwg.users.getList)
+**vulnerability type:**SQL injection 
+**vulnerability versions:** piwigo 12.2.0
+**vulnerability Url:** [http://10.92.66.148/piwigo/ws.php?format=json&method=pwg.users.getList](http://10.92.66.148/piwigo/ws.php?format=json&method=pwg.users.getList)
 **SQL injected fields exist**：**order**
 ### verification procedure 
 
